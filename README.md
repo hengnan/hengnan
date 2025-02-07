@@ -35,4 +35,4 @@ I'm a passionate software engineer & cloud enthusiast who loves building scalabl
 
 ### ⚡ Fun fact
 
-I like fried chicken! 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
