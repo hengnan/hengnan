@@ -5,11 +5,11 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 **I love working with**
 
 <div display="flex">
-  <img src="[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)"/>
-  <img src="[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)"/>
-  <img src="[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)"/>
-  <img src="[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)"/>
-  <img src="[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 ### 🔭 I’m working on
