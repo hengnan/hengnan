@@ -14,7 +14,7 @@ I'm a passionate software engineer & cloud enthusiast who loves building scalabl
 
 ### 🔭 I’m working on
 
- [![hengnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengnan)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### 🌱 I’m learning
 
