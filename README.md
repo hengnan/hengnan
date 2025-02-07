@@ -14,7 +14,7 @@ I'm a passionate software engineer & cloud enthusiast who loves building scalabl
 
 ### 🔭 I’m working on
 
- - Integrating AI models to web applications
+ [![hengnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hengnan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m learning
 
@@ -36,3 +36,4 @@ I'm a passionate software engineer & cloud enthusiast who loves building scalabl
 ### ⚡ Fun fact
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
