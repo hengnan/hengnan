@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
+I'm a passionate software engineer & cloud enthusiast who loves building scalable, high-performance applications and automating workflows. 🕺🏽
 
 **I love working with**
 
@@ -14,6 +14,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 🔭 I’m working on
 
+ - Integrating AI models to web applications
 
 ### 🌱 I’m learning
 
@@ -23,9 +24,6 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/-Generative%20AI-FF5733?style=flat&logo=openai&logoColor=white"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
 
 ### 📫 How to reach me
 
